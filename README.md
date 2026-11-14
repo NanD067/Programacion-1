@@ -24,3 +24,6 @@ juego que consiste en apagar todas las luces.
 
 ### Sacar Curp
 Programa para sacar tu curp ingresando tus datos.
+
+### Curp
+Saca tu curp con tu informacion
