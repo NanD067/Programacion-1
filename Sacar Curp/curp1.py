@@ -64,7 +64,7 @@ while genero == "" or (genero != "HOMBRE" and genero != "MUJER"):
     genero = input("Ingresa Tu Genero [Hombre o Mujer]: ").upper()
 
 
-print("En Que Estado Naciste\n")
+print("En Que Estado Naciste\n") #el usuario elige el estado
 
 print(f"{'1) Aguascalientes':<20}{'2) Baja California':<20}{'3) Baja California Sur'}")
 print(f"{'4) Campeche':<20}{'5) Chiapas':<20}{'6) Chihuahua'}")
