@@ -78,7 +78,7 @@ print(f"{'25) Sinaloa':<20}{'26) Sonora':<20}{'27) Tabasco'}")
 print(f"{'28) Tamaulipas':<20}{'29) Tlaxcala':<20}{'30) Veracruz'}")
 print(f"{'31) Yucatán':<20}{'32) Zacatecas':<20}")
 
-
+#Esta parte sirve para que el usuario elija un estado
 estado = int(input("Selecciona Tu Estado: "))
 
 match estado:
